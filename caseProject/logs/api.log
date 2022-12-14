@@ -1,0 +1,57 @@
+13-12-2022 23:13:11.513 [Gauge] [INFO] Watching directory: C:\Users\90533\Desktop\caseProject\specs
+13-12-2022 23:13:11.513 [Gauge] [DEBUG] Found 2 files
+13-12-2022 23:13:11.522 [Gauge] [INFO] Watching directory: C:\Users\90533\Desktop\caseProject\specs\concept
+13-12-2022 23:13:11.523 [Gauge] [DEBUG] Found 1 files
+13-12-2022 23:13:11.621 [Gauge] [INFO] Initializing concepts cache with 11 concepts
+13-12-2022 23:13:11.621 [Gauge] [DEBUG] Adding concepts from C:\Users\90533\Desktop\caseProject\specs\concept\caseConcept.cpt
+13-12-2022 23:13:11.621 [Gauge] [DEBUG] Adding concepts from C:\Users\90533\Desktop\caseProject\specs\concept\caseConcept.cpt
+13-12-2022 23:13:11.621 [Gauge] [DEBUG] Adding concepts from C:\Users\90533\Desktop\caseProject\specs\concept\caseConcept.cpt
+13-12-2022 23:13:11.627 [Gauge] [DEBUG] Adding concepts from C:\Users\90533\Desktop\caseProject\specs\concept\caseConcept.cpt
+13-12-2022 23:13:11.627 [Gauge] [DEBUG] Adding concepts from C:\Users\90533\Desktop\caseProject\specs\concept\caseConcept.cpt
+13-12-2022 23:13:11.627 [Gauge] [DEBUG] Adding concepts from C:\Users\90533\Desktop\caseProject\specs\concept\caseConcept.cpt
+13-12-2022 23:13:11.627 [Gauge] [DEBUG] Adding concepts from C:\Users\90533\Desktop\caseProject\specs\concept\caseConcept.cpt
+13-12-2022 23:13:11.627 [Gauge] [DEBUG] Adding concepts from C:\Users\90533\Desktop\caseProject\specs\concept\caseConcept.cpt
+13-12-2022 23:13:11.627 [Gauge] [DEBUG] Adding concepts from C:\Users\90533\Desktop\caseProject\specs\concept\caseConcept.cpt
+13-12-2022 23:13:11.627 [Gauge] [DEBUG] Adding concepts from C:\Users\90533\Desktop\caseProject\specs\concept\caseConcept.cpt
+13-12-2022 23:13:11.627 [Gauge] [DEBUG] Adding concepts from C:\Users\90533\Desktop\caseProject\specs\concept\caseConcept.cpt
+13-12-2022 23:13:11.639 [Gauge] [INFO] Spec file added / modified: C:\Users\90533\Desktop\caseProject\specs\searchcases.spec
+13-12-2022 23:17:05.854 [Gauge] [INFO] Watching directory: C:\Users\90533\Desktop\caseProject\specs
+13-12-2022 23:17:05.857 [Gauge] [INFO] Initializing concepts cache with 11 concepts
+13-12-2022 23:17:05.857 [Gauge] [DEBUG] Adding concepts from C:\Users\90533\Desktop\caseProject\specs\concept\caseConcept.cpt
+13-12-2022 23:17:05.857 [Gauge] [DEBUG] Adding concepts from C:\Users\90533\Desktop\caseProject\specs\concept\caseConcept.cpt
+13-12-2022 23:17:05.857 [Gauge] [DEBUG] Adding concepts from C:\Users\90533\Desktop\caseProject\specs\concept\caseConcept.cpt
+13-12-2022 23:17:05.857 [Gauge] [DEBUG] Adding concepts from C:\Users\90533\Desktop\caseProject\specs\concept\caseConcept.cpt
+13-12-2022 23:17:05.857 [Gauge] [DEBUG] Adding concepts from C:\Users\90533\Desktop\caseProject\specs\concept\caseConcept.cpt
+13-12-2022 23:17:05.857 [Gauge] [DEBUG] Adding concepts from C:\Users\90533\Desktop\caseProject\specs\concept\caseConcept.cpt
+13-12-2022 23:17:05.857 [Gauge] [DEBUG] Adding concepts from C:\Users\90533\Desktop\caseProject\specs\concept\caseConcept.cpt
+13-12-2022 23:17:05.857 [Gauge] [DEBUG] Adding concepts from C:\Users\90533\Desktop\caseProject\specs\concept\caseConcept.cpt
+13-12-2022 23:17:05.857 [Gauge] [DEBUG] Found 2 files
+13-12-2022 23:17:05.857 [Gauge] [DEBUG] Adding concepts from C:\Users\90533\Desktop\caseProject\specs\concept\caseConcept.cpt
+13-12-2022 23:17:05.857 [Gauge] [DEBUG] Adding concepts from C:\Users\90533\Desktop\caseProject\specs\concept\caseConcept.cpt
+13-12-2022 23:17:05.857 [Gauge] [DEBUG] Adding concepts from C:\Users\90533\Desktop\caseProject\specs\concept\caseConcept.cpt
+13-12-2022 23:17:05.857 [Gauge] [INFO] Watching directory: C:\Users\90533\Desktop\caseProject\specs\concept
+13-12-2022 23:17:05.857 [Gauge] [DEBUG] Found 1 files
+13-12-2022 23:17:05.857 [Gauge] [INFO] Initializing specs cache with 1 specs
+13-12-2022 23:17:05.857 [Gauge] [DEBUG] Adding specs from C:\Users\90533\Desktop\caseProject\specs\searchcases.spec
+13-12-2022 23:17:05.857 [Gauge] [INFO] Initializing steps cache with 2 steps
+13-12-2022 23:17:05.858 [Gauge] [INFO] Gauge daemon initialized and listening on port: 58069
+13-12-2022 23:18:29.799 [Gauge] [INFO] Watching directory: C:\Users\90533\Desktop\caseProject\specs
+13-12-2022 23:18:29.800 [Gauge] [DEBUG] Found 2 files
+13-12-2022 23:18:29.800 [Gauge] [INFO] Watching directory: C:\Users\90533\Desktop\caseProject\specs\concept
+13-12-2022 23:18:29.800 [Gauge] [DEBUG] Found 1 files
+13-12-2022 23:18:29.804 [Gauge] [INFO] Initializing concepts cache with 11 concepts
+13-12-2022 23:18:29.804 [Gauge] [DEBUG] Adding concepts from C:\Users\90533\Desktop\caseProject\specs\concept\caseConcept.cpt
+13-12-2022 23:18:29.804 [Gauge] [DEBUG] Adding concepts from C:\Users\90533\Desktop\caseProject\specs\concept\caseConcept.cpt
+13-12-2022 23:18:29.804 [Gauge] [DEBUG] Adding concepts from C:\Users\90533\Desktop\caseProject\specs\concept\caseConcept.cpt
+13-12-2022 23:18:29.804 [Gauge] [DEBUG] Adding concepts from C:\Users\90533\Desktop\caseProject\specs\concept\caseConcept.cpt
+13-12-2022 23:18:29.804 [Gauge] [DEBUG] Adding concepts from C:\Users\90533\Desktop\caseProject\specs\concept\caseConcept.cpt
+13-12-2022 23:18:29.804 [Gauge] [DEBUG] Adding concepts from C:\Users\90533\Desktop\caseProject\specs\concept\caseConcept.cpt
+13-12-2022 23:18:29.804 [Gauge] [DEBUG] Adding concepts from C:\Users\90533\Desktop\caseProject\specs\concept\caseConcept.cpt
+13-12-2022 23:18:29.804 [Gauge] [DEBUG] Adding concepts from C:\Users\90533\Desktop\caseProject\specs\concept\caseConcept.cpt
+13-12-2022 23:18:29.804 [Gauge] [DEBUG] Adding concepts from C:\Users\90533\Desktop\caseProject\specs\concept\caseConcept.cpt
+13-12-2022 23:18:29.804 [Gauge] [DEBUG] Adding concepts from C:\Users\90533\Desktop\caseProject\specs\concept\caseConcept.cpt
+13-12-2022 23:18:29.804 [Gauge] [DEBUG] Adding concepts from C:\Users\90533\Desktop\caseProject\specs\concept\caseConcept.cpt
+13-12-2022 23:18:29.805 [Gauge] [INFO] Initializing specs cache with 1 specs
+13-12-2022 23:18:29.805 [Gauge] [DEBUG] Adding specs from C:\Users\90533\Desktop\caseProject\specs\searchcases.spec
+13-12-2022 23:18:29.805 [Gauge] [INFO] Initializing steps cache with 2 steps
+13-12-2022 23:18:29.805 [Gauge] [INFO] Gauge daemon initialized and listening on port: 58105

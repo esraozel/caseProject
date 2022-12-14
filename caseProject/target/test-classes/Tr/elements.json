@@ -1,0 +1,108 @@
+[
+  {
+  "key": "searchBtn",
+  "value": "searchData",
+  "type": "id"
+  },
+  {
+    "key": "SearchIcon",
+    "value": ".iconsSearch",
+    "type": "css"
+  },
+  {
+    "key": "btnBasket",
+    "value": "span.btnBasket",
+    "type": "css"
+  },
+  {
+    "key": "colorSelect",
+    "value": ".chosen",
+    "type": "css"
+  },
+  {
+    "key": "memorySelect",
+    "value": "[data-name='Dahili Hafıza'] > .skus-item",
+    "type": "css"
+  },
+  {
+    "key": "addtoBasket",
+    "value": "#js-addBasketSku",
+    "type": "css"
+  },
+  {
+    "key": "myBasketBtn",
+    "value": ".iconsBasketWhite",
+    "type": "css"
+  },
+  {
+    "key": "ButtonBuy",
+    "value": ".btnHolder > #js-buyBtn",
+    "type": "css"
+  },
+  {
+    "key": "withoutaMemberContinue",
+    "value": "a.btn-continue",
+    "type": "css"
+  },
+  {
+    "key": "myBasketTitle",
+    "value": ".basket > .box__title",
+    "type": "css"
+  },
+  {
+    "key": "SortbyBttn",
+    "value": "div.selected-item",
+    "type": "css"
+  },
+  {
+    "key": "resultText",
+    "value": "div.resultText > h1",
+    "type": "css"
+  },
+  {
+    "key": "chooseColor",
+    "value": "div.sku-container > fieldset:nth-of-type(1) > div > div > label",
+    "type": "css"
+  },
+  {
+    "key": "chooseMemory",
+    "value": "div.sku-container > fieldset:nth-of-type(2) > div > div > label",
+    "type": "css"
+  },
+  {
+    "key": "btnBlack",
+    "value": "div.btnHolder  > span.btnBlack",
+    "type": "css"
+  },
+  {
+    "key": "secondFilter",
+    "value": "section.filter[data-hdfl='m'] > div > div > div.filterItem:nth-of-type(2) > label > span",
+    "type": "css"
+  },
+  {
+    "key": "chooseReview",
+    "value": "div.all-items > div.item.i4",
+    "type": "css"
+  },
+  {
+    "key": "freeShipment",
+    "value": "section.cargoFilter > div > div > div:nth-of-type(1) > label > span",
+    "type": "css"
+  },
+  {
+    "key": "cargoBadge",
+    "value": "span.cargoBadgeText",
+    "type": "css"
+  },
+  {
+    "key": "cargoFilter",
+    "value": "section.cargoFilter",
+    "type": "css"
+  },
+  {
+    "key": "filterValue",
+    "value": "[data-icon='iconSortBy'] span",
+    "type": "css"
+  }
+]
+

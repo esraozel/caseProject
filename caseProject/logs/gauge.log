@@ -1,0 +1,7 @@
+13-12-2022 23:13:32.773 [Gauge] [DEBUG] Plugin html-report is already installed.
+13-12-2022 23:13:32.780 [Gauge] [DEBUG] Plugin java is already installed.
+13-12-2022 23:13:33.364 [Gauge] [DEBUG] Checking updates...
+13-12-2022 23:13:33.368 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=windows&a=amd64
+13-12-2022 23:13:33.650 [Gauge] [DEBUG] Runner connection error: Runner with pid 37180 quit unexpectedly(exit status 1).
+13-12-2022 23:13:33.650 [Gauge] [DEBUG] Error while killing runner: invalid argument
+13-12-2022 23:13:33.650 [Gauge] [CRITICAL] Failed to start gauge API: Runner with pid 37180 quit unexpectedly(exit status 1).

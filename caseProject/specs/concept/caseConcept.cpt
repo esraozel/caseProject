@@ -1,0 +1,59 @@
+# Arama çubuğuna IPhone yazılır ve arama yapılır
+* Elementine tıkla "searchBtn"
+* "iPhone" textini "searchBtn" elemente yaz
+* Elementine tıkla "SearchIcon"
+* "resultText" elementi "IPhone" değerini içeriyor mu kontrol et
+* "2" saniye bekle
+
+# Listedeki ilk ürün seçilir ve sepete eklenir
+* "btnBasket" listesinden ilk elemente tıkla
+* "2" saniye bekle
+* "chooseColor" menu listesinden rastgele seç
+* "chooseMemory" menu listesinden rastgele seç
+* "5" saniye bekle
+* Elementine tıkla "addtoBasket"
+* "2" saniye bekle
+
+# Listedeki son ürün seçilir ve sepete eklenir
+* "btnBasket" menu listesinden sonuncuyu seç
+* "2" saniye bekle
+* "chooseColor" menu listesinden rastgele seç
+* "chooseMemory" menu listesinden rastgele seç
+* Element varsa javascript ile tıkla "addtoBasket"
+
+# Sepetim sayfasına gidilir
+* Elementine tıkla "myBasketBtn"
+* "2" saniye bekle
+
+# Aydınlatma metni onaylanır
+* Elementine tıkla "btnBlack"
+* "2" saniye bekle
+
+# Misafir kullanıcı ile devam edilir ve ödeme adımına geçilir
+* Elementine tıkla "ButtonBuy"
+* "withoutaMemberContinue" elementine javascript ile tıkla
+* Element var mı kontrol et "myBasketTitle"
+
+# Arama çubuğuna telefon yazılır ve arama yapılır
+* Elementine tıkla "searchBtn"
+* "telefon" textini "searchBtn" elemente yaz
+* Elementine tıkla "SearchIcon"
+
+# Markalar filtresinden ikinci marka seçilir
+* "secondFilter" elementine javascript ile tıkla
+* "3" saniye bekle
+
+# Yorum sayısına göre sıralama yapılır
+* "SortbyBttn" elementine javascript ile tıkla
+* "3" saniye bekle
+* "chooseReview" elementine javascript ile tıkla
+* "5" saniye bekle
+* "filterValue" elementi "Yorum sayısı" değerini içeriyor mu kontrol et
+
+# Kargo seçenekleri arasından ücretsiz kargo seçilir
+* "cargoFilter" elementine javascript ile tıkla
+* "freeShipment" elementine javascript ile tıkla
+* "5" saniye bekle
+
+# Listedeki tüm ürünlerin ücretsiz kargo olduğu kontrol edilir
+* "cargoBadge" menu listesi "ÜCRETSİZ KARGO" değerini içeriyor mu kontrol et
